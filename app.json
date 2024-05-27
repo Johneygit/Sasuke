@@ -7,8 +7,8 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/Johneygit/Sasuke",
-    "success_url": "https://telegram.me/lorddddd73736",
+    "repository": "https://github.com",
+    "success_url": "https://telegram.me/",
     "stack": "container",
     "env": {
         "API_ID": {
